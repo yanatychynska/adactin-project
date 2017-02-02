@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Adactin Project
+## Adactin Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Adactin Project*
 
 **Java 7**
 
